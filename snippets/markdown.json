@@ -15,6 +15,7 @@
 
 
 	// Markdown and Blueprint helpers v0.2
+	// Yes, html like this is cheating — but hey, it works.
 	
 	"Jumbotron": {
 		"prefix": "h-jumbo",
