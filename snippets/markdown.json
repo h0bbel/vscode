@@ -65,7 +65,7 @@
 		"description": "Insert Bootstrap Danger"
 	}
 
-	, "Suvvess text": {
+	, "Success text": {
 		"prefix": "h-success",
 		"body": [
 			"{{% success \"${1:text}\"%}}"
